@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/contactify/static/css/main.2cce8147.chunk.css",
+    "main.js": "/contactify/static/js/main.6f6c3328.chunk.js",
+    "main.js.map": "/contactify/static/js/main.6f6c3328.chunk.js.map",
+    "runtime~main.js": "/contactify/static/js/runtime~main.036deb3d.js",
+    "runtime~main.js.map": "/contactify/static/js/runtime~main.036deb3d.js.map",
+    "static/js/2.4f057907.chunk.js": "/contactify/static/js/2.4f057907.chunk.js",
+    "static/js/2.4f057907.chunk.js.map": "/contactify/static/js/2.4f057907.chunk.js.map",
+    "index.html": "/contactify/index.html",
+    "precache-manifest.c82726087d3d295575da34bb787f8e7d.js": "/contactify/precache-manifest.c82726087d3d295575da34bb787f8e7d.js",
+    "service-worker.js": "/contactify/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/contactify/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/contactify/static/media/logo.5d5d9eef.svg"
+  }
+}
